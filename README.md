@@ -1,5 +1,5 @@
-![Uploading 219686.gif…]()
 
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB1Zzd6b2VyMnJiaW8wYXhxZzZlb3ZwNjNlaXE1YmRsaWJsdWVoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qTELhZuDdRSLIVkhQt/giphy.gif
 
 <!--
 **paltushar572-bot/paltushar572-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
